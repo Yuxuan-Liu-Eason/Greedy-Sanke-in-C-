@@ -1,1 +1,1 @@
-# Greedy-Sanke-in-C-
+# Greedy-Sanke-in-C++
