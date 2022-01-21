@@ -1,1 +1,0 @@
-# Greedy-Sanke-in-C++
