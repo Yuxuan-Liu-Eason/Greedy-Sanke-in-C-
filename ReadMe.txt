@@ -1,4 +1,4 @@
-A classical greedy snake game achieved in command window.
+A classical greedy snake game in command window by C++.
 
 All files include 6 header files, 6 corresponding resource files and 1 main resource file.
 After loading all file, we can start running. No external packages are needed.
