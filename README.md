@@ -1,4 +1,4 @@
-A classical greedy snake game in command window by C++.
+#A classical greedy snake game in command window by C++.
 
 This is a final project for course AERSP 424: advanced programming in C++ in Penn State University.
 I am new to C++. So I did not use dynamic graphic packages to achieve the game. Instead, the game is achieved in the command window simply by repreating drawing(print) and deleting(system("cls")). 
