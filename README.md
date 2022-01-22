@@ -7,6 +7,7 @@ More specifically, I first draw the map and snake. Then pause for 0.1 second(sle
 it becomes "dynamic". And of course users can use up, down, left, right to control the snake to eat the food.
 
 Some screenshots from the game:
+
 ![image](https://user-images.githubusercontent.com/76148884/150621502-2cc8e835-e8d9-437e-bcc7-c9e4f5f0e7f6.png)
 ![image](https://user-images.githubusercontent.com/76148884/150621435-ee59af04-6f71-449e-806f-3cdf502783f0.png)
 ![image](https://user-images.githubusercontent.com/76148884/150621464-19c519e6-a35e-4020-b8ba-45474329293f.png)
