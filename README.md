@@ -1,6 +1,7 @@
-#A classical greedy snake game in command window by C++.
+# A classical greedy snake game in command window by C++.
 
-This is a final project for course AERSP 424: advanced programming in C++ in Penn State University.
+## This is a final project for course AERSP 424: advanced programming in C++ in Penn State University.
+
 I am new to C++. So I did not use dynamic graphic packages to achieve the game. Instead, the game is achieved in the command window simply by repreating drawing(print) and deleting(system("cls")). 
 More specifically, I first draw the map and snake. Then pause for 0.1 second(sleep(100)). Then draw the same map but the snake moving to the next cell. When repeating the above process,
 it becomes "dynamic". And of course users can use up, down, left, right to control the snake to eat the food.
